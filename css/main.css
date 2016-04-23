@@ -1,0 +1,157 @@
+
+.navbar-default .navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    color: cornflowerblue;
+    height: 70px;
+    line-height: 35px;
+}
+
+.navbar-default .navbar-nav>li>a{
+    font-size: 16px;
+    font-weight: bold;
+    color: #666;
+    height: 70px;
+    line-height: 35px;
+}
+
+#home{
+    margin-top: 70px;
+    text-align: center;
+    width: 100%;
+    background-color: cornflowerblue;
+    padding: 90px 0px;
+    color: white;
+
+}
+
+#home h1{
+    font-weight: bold;
+}
+
+#kecheng{
+    padding: 70px;
+    text-align: center;
+}
+
+#kecheng a{
+    text-decoration: none;
+}
+#kecheng img{
+    margin: 0 auto;
+}
+
+#kecheng h3{
+    font-weight: bold;
+}
+
+#jiaowu,#wssc{
+    background-color: #f8f8f8;
+    padding: 80px 0px;
+}
+
+#jiaowu h2,#wssc h2{
+    font-weight: bold;
+}
+
+#jiaowu p,#wssc p{
+   line-height: 25px;
+}
+
+.icon{
+    background:cornflowerblue;
+    color: #fff;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 20px;
+}
+
+#zuopin{
+    color:#ffffff;
+    text-align: center;
+    padding: 20px 0px;
+    background: cadetblue;
+
+
+}
+
+#zuopin h2{
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+#zuopin img{
+    width: 275px;
+    height: 174px;
+}
+
+#zuopin .btn{
+    background:transparent;
+    border: 1px solid #40d2B1;
+    border-radius: 0px;
+    color: #40d2B1;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 5px 40px;
+}
+
+#zuopin .btn:hover{
+    background:#40d2B1;
+    color: #fff;
+}
+
+#zuopin .zp{
+    background: #f8f8f8;
+    width: 275px;
+    margin: 20px 0px;
+
+}
+
+#contact{
+    background: url(../images/bg.png) ;
+    color: #ffffff;
+}
+
+#contact .bg{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    padding: 90px 0px;
+}
+
+#contact h2{
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+#contact p {
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+
+#contact .form-control{
+    border: none;
+    margin-bottom: 20px;
+    height: 50px;
+}
+#contact textarea.form-control{
+    height: auto;
+}
+
+#contact input[type=submit]{
+    background:#40d2B1;
+    color: #ffffff;
+    font-weight: bold;
+
+}
+
+#contact input[type=submit]:hover{
+    background: rgb(44,142,120);
+
+}
+
+footer p{ text-align: center;padding: 40px 0px;}
